@@ -95,9 +95,8 @@ Outside programming, you'll probably find me exploring Linux, playing action gam
 
 ##  Connect With Me
 
- Email: your-email@example.com
+ Email: avilashranjannag28@gmail.com
 
- LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
