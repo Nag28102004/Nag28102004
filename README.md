@@ -74,7 +74,7 @@ Outside programming, you'll probably find me exploring Linux, playing action gam
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nag28102004E&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nag28102004&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nag28102004&layout=compact&theme=tokyonight"/>
 
