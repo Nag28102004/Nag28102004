@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Avilash Nag 👋
+# Hi there, I'm Avilash Nag 
 
-### 🎓 BSc ITM Student | 💻 Aspiring Software Engineer | 🎮 Gamer
+###  BSc ITM Student |  Aspiring Software Engineer |  Gamer
 
 *"Learning something new every day, one project at a time."*
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm **Avilash Nag**, a BSc ITM student from **Balangir, Odisha** who enjoys understanding how software works behind the scenes.
 
@@ -20,18 +20,18 @@ Outside programming, you'll probably find me exploring Linux, playing action gam
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🐍 Python
-- ☕ Java
-- 📚 Data Structures & Algorithms
-- 🌐 REST APIs
-- 🗄️ SQL & Databases
-- 🔧 Git & GitHub
+-  Python
+-  Java
+-  Data Structures & Algorithms
+-  REST APIs
+-  SQL & Databases
+-  Git & GitHub
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -47,30 +47,30 @@ Outside programming, you'll probably find me exploring Linux, playing action gam
 
 ---
 
-## 📚 What I'm Working On
+##  What I'm Working On
 
-- 🌦️ Building Python projects using APIs
-- 💻 Improving problem-solving skills
-- 📖 Learning object-oriented programming
-- 🔥 Building a portfolio of useful projects
-- 🧠 Practicing DSA consistently
+-  Building Python projects using APIs
+-  Improving problem-solving skills
+-  Learning object-oriented programming
+-  Building a portfolio of useful projects
+-  Practicing DSA consistently
 
 ---
 
-## 🎮 Fun Facts
+##  Fun Facts
 
-- ❤️ Favorite game: **Hollow Knight**
-- ⚔ Favorite boss: **The Radiance**
-- 🎮 Enjoys:
+-  Favorite game: **Hollow Knight**
+-  Favorite boss: **The Radiance**
+-  Enjoys:
   - Hollow Knight
   - Dead Cells
   - Ori and the Blind Forest
-- 🐧 Linux enthusiast
-- 📖 Always curious about how things work
+-  Linux enthusiast
+-  Always curious about how things work
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -82,22 +82,22 @@ Outside programming, you'll probably find me exploring Linux, playing action gam
 
 ---
 
-## 🎯 Goals for 2025
+##  Goals for 2025
 
-- ✅ Become confident in Python
-- ✅ Learn Java thoroughly
-- ✅ Build 20+ projects
-- ✅ Learn Backend Development
-- ✅ Contribute to Open Source
-- ✅ Improve problem-solving skills
+-  Become confident in Python
+-  Learn Java thoroughly
+-  Build 20+ projects
+-  Learn Backend Development
+-  Contribute to Open Source
+-  Improve problem-solving skills
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📧 Email: your-email@example.com
+ Email: your-email@example.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+ LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
