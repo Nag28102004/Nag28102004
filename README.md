@@ -82,7 +82,7 @@ Outside programming, you'll probably find me exploring Linux, playing action gam
 
 ---
 
-##  Goals for 2025
+##  Goals for 2026
 
 -  Become confident in Python
 -  Learn Java thoroughly
